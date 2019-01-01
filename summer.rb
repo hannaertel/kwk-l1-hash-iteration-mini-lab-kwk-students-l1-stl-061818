@@ -1,1 +1,2 @@
-def createsummer
+def iteratehash
+  
