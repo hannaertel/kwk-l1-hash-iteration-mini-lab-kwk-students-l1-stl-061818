@@ -5,6 +5,7 @@ def iteratehash
     "Beijing" => "2008",
     "London" => "2012"
   }
+  summerhash
   summerhash.each do |city, year|
     puts "The #{city} summer olympics took place in #{year}."
   end
