@@ -5,4 +5,4 @@ def iteratehash
     "Beijing" => "2008",
     "London" => "2012"
   }
-  
+  summerhash
