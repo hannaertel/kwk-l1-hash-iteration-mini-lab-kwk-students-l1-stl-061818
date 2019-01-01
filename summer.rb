@@ -9,5 +9,6 @@ def iteratehash
   summerhash.each do |city, year|
     puts "The #{city.capitalize} summer olympics took place in #{year}."
   end
+  summerhash.each do
 end
 iteratehash
